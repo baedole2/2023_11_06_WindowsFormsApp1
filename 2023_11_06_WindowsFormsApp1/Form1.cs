@@ -21,6 +21,7 @@ namespace _2023_11_06_WindowsFormsApp1
             // stage1
             // not stagess
             // for pull request test
+            // edit at git
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
